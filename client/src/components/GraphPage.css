@@ -1,0 +1,7 @@
+#run-dropdowns{
+    display: inline-flex;
+}
+.dropdown-container {
+    display: inline-block;
+    margin-right: 20px; 
+  }
